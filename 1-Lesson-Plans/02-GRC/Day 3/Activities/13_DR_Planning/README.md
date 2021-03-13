@@ -12,7 +12,7 @@ In this activity, you'll develop a high level DR plan for GeldCorp. The DR plan 
 
 When thinking about the DR plan, assume that a major disruption has occurred, resulting in the loss of the main data and tech center for the company. 
 
-1. Use the below information about GeldCorp and reference the information from the [Threat Modeling activity](../../Day 2/Activities/03_Threat_Modeling/Solved). Read it thoroughly. It is up to you to determine which pieces are relevant for your specific plan. 
+1. Use the below information about GeldCorp and reference the information from the [Threat Modeling activity](../../../'Day 2'/Activities/03_Threat_Modeling/Solved). Read it thoroughly. It is up to you to determine which pieces are relevant for your specific plan. 
 
     - **Physical Environment**
 
