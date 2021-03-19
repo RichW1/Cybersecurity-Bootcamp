@@ -103,13 +103,7 @@ $ find -type d -name 'Demo*'
 $ find ~/joe -size +5M
 ```
 
-#### Find files before or after a creation time
-
-```bash
-$ find ~/joe -size +5M
-```
-
-#### Find files before or after a creation time
+#### Find files before or after a modified time
 
 ```bash
 $ find . -cmin +2
