@@ -94,7 +94,7 @@ Today, you will continue building up your ELK server. Specifically, if you have 
 
   - You can use the provided template for the Filebeat configuration file:
 
-     - [Filebeat Configuration File Template](Activities/Stu_Day_2/Unsolved/Resources/filebeat-config.yml).
+     - [Filebeat Configuration File Template](Resources/filebeat-config.yml).
  
        - Note that when text is copy and pasted from the web into your terminal, formatting differences are likely to occur that will corrupt this configuration file.
 
