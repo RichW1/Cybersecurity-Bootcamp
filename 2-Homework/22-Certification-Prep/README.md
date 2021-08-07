@@ -50,11 +50,11 @@
 
 All of the following courses are free: 
 
-- [Attack Methodologies in IT and ICS](https://ics-cert-training.inl.gov/learn/course/external/view/elearning/58/210W-09AttackMethodologiesinIT&ICS)
+- [Attack Methodologies in IT and ICS](https://ics-training.inl.gov/learn/course/internal/view/elearning/58/210W-09AttackMethodologiesinIT&ICS)
 
-- [Industrial Control Systems Cybersecurity Consequences](https://ics-cert-training.inl.gov/learn/course/external/view/elearning/56/210W-08ICSCybersecurityConsequences)
+- [Industrial Control Systems Cybersecurity Consequences](https://ics-training.inl.gov/learn/course/external/view/elearning/56/210W-08ICSCybersecurityConsequences)
 
-- [Cybersecurity Practices for Industrial Control Systems](https://ics-cert-training.inl.gov/learn/course/external/view/elearning/45/100WCybersecurityPracticesforIndustrialControlSystems)
+- [Cybersecurity Practices for Industrial Control Systems](https://ics-training.inl.gov/learn/course/external/view/elearning/45/100WCybersecurityPracticesforIndustrialControlSystems)
 
 
 
