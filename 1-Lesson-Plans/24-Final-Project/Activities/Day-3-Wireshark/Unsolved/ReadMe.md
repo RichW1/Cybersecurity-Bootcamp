@@ -105,7 +105,7 @@ Your task is to isolate torrent traffic and answer the following questions in yo
 1. Find the following information about the machine with IP address `10.0.0.201`:
     - MAC address
     - Windows username
-    - OS version
+    - Computer Host Name
 
 2. Which torrent file did the user download?
 
